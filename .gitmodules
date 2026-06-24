@@ -3,5 +3,5 @@
 	url = https://github.com/fanhao375/lerobot-humanoid-model.git
 [submodule "lerobot"]
 	path = lerobot
-	url = https://github.com/huggingface/lerobot.git
-	branch = feat/clean-can-bus
+	url = https://github.com/fanhao375/lerobot_alohamini.git
+	branch = humanoid-pinned-clean-can-bus
